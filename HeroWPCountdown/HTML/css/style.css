@@ -95,10 +95,12 @@ h1{
 	font-size:56px;
 	font-weight:300;
 	text-align:center;
+    	text-shadow: 2px 2px #708090;
 }
 
 h1 span{
 	font-size:32px;
+	text-shadow: 2px 2px #000000;
 }
 
 .yellow{
